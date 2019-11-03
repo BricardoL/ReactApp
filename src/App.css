@@ -1,0 +1,35 @@
+.App {
+  background-color: purple;
+  height: 100vh;
+}
+
+
+
+div.col-md-4.text-center{
+  height: 400px;
+  width: 700px;
+}
+
+table.row{
+background-color: rgb(60, 2, 71);
+color: white
+}
+
+td{
+  padding: 5px 70px
+}
+.badge-danger{
+  background-color: transparent;
+  color: white;
+  font-size: 75%
+}
+
+.btn-primary{
+  background-color: blueviolet
+}
+.btn{
+  padding: .200em .50em
+}
+
+
+
